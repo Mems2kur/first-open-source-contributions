@@ -27,6 +27,7 @@
  - [Fidel Otieno](https://github.com/Fideltodayy)
  - [Mercy Isaac](https://github.com/Mercy435)
  - [Umar Adamu](https://github.com/Cyber-Lord)
+ -[Maimuna Tukur](https://github.com/Mems2kur)
  - [LucyKamau](https://github.com/650DataNerd)
  - [Musa Haruna](https://github.com/musaHaruna)
  - [Obi Chinedu Frank](https://github.com/FrankChinedu)
